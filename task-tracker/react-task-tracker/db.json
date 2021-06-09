@@ -1,22 +1,28 @@
 {
   "tasks": [
-  {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30pm",
-      "reminder": false
-  },
-  {
-      "id": 2,
-      "text": "Prep Dinner Party",
-      "day": "Feb 5th at 4:30pm",
-      "reminder": true
-  },
-  {
-      "id": 3,
-      "text": "Greet Dinner Part Guests",
-      "day": "Feb 7th at 2:30pm",
-      "reminder": false
-  }
+    {
+      "text": "take a shit",
+      "day": "NOW!!",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "poop",
+      "day": "RIGGHT FUCKIGN NOW",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "take a massive fucking shit",
+      "day": "immediately",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "dude serisouslly go shit already",
+      "day": "ppooooppp squirt piss poop",
+      "reminder": false,
+      "id": 4
+    }
   ]
 }
